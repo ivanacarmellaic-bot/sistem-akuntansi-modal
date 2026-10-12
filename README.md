@@ -29,8 +29,10 @@ sistem akuntansi modal/
 │   └── script.js
 │
 ├── backend/
-    ├── app.js
-    └── sql.sql
+│   ├── app.js
+│   └── sql.sql
+│
+└── README.md
     
 **Alur Penggunaan**
 1. Pengguna membuka aplikasi melalui browser.
